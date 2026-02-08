@@ -1,31 +1,27 @@
-# 👋 Salut, moi c’est Ousma
+# 👋 Salut, moi c’est Ousman
 
-🎯 <Ton rôle principal> — passionné·e par <développement web>  
+🎯  passionné par <développement web 
 💡 J’aime construire des choses utiles, propres et bien pensées.
 
----
 
-## 🚀 À propos de moi
+À propos de moi
 
-- 🔭 Je travaille actuellement sur : **<apprentissage>**
-- 🌱 J’apprends en ce moment : **<technos / compétences>**
-- 🧠 Centres d’intérêt : **<ex : performance, UX, IA, open-source…>**
-- ⚡ Fun fact : **<un truc cool ou léger sur toi>**
+Je travaille actuellement sur mon apprentissage
+- 🧠 Centres d’intérêt performance, UX, IA, open-source
+- ⚡ Fun fact : jrigole pas moi
 
----
 
-## 🛠️ Stack & outils
 
-**Langages**
-- <Langage 1>, <Langage 2>, <Langage 3>
+🛠️ Stack & outils
+
+Langages
+- Langage 1, <Langage 2, <Langage 3
 
 **Frameworks / Librairies**
 - <Framework 1>, <Framework 2>
 
 **Outils**
-- Git, GitHub, <outil>, <outil>
-
----
+- Git, GitHub,outil
 
 ## 📌 Projets mis en avant
 
