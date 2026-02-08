@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Salut, moi c’est <Ton Prénom / Pseudo>
 
-<!--
-**OusmanIsmailov/OusmanIsmailov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 <Ton rôle principal> — passionné·e par <domaine(s) clé(s)>  
+💡 J’aime construire des choses utiles, propres et bien pensées.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos de moi
+
+- 🔭 Je travaille actuellement sur : **<projet(s) ou thème actuel>**
+- 🌱 J’apprends en ce moment : **<technos / compétences>**
+- 🧠 Centres d’intérêt : **<ex : performance, UX, IA, open-source…>**
+- ⚡ Fun fact : **<un truc cool ou léger sur toi>**
+
+---
+
+## 🛠️ Stack & outils
+
+**Langages**
+- <Langage 1>, <Langage 2>, <Langage 3>
+
+**Frameworks / Librairies**
+- <Framework 1>, <Framework 2>
+
+**Outils**
+- Git, GitHub, <outil>, <outil>
+
+---
+
+## 📌 Projets mis en avant
+
+🔹 **<Nom du projet>**  
+👉 <Courte description (1 ligne)>  
+🔗 <Lien GitHub ou démo>
+
+🔹 **<Nom du projet>**  
+👉 <Courte description>  
+🔗 <Lien>
+
+---
+
+## 🤝 Me contacter
+
+- 💼 LinkedIn : <lien>
+- 🌐 Site / Portfolio : <lien>
+- 📫 Email : <email ou “via GitHub”>
+
+---
+
+⭐️ N’hésite pas à explorer mes repos et à laisser une étoile si quelque chose te plaît !
