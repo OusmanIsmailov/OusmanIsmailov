@@ -1,13 +1,13 @@
-# 👋 Salut, moi c’est <Ton Prénom / Pseudo>
+# 👋 Salut, moi c’est Ousma
 
-🎯 <Ton rôle principal> — passionné·e par <domaine(s) clé(s)>  
+🎯 <Ton rôle principal> — passionné·e par <développement web>  
 💡 J’aime construire des choses utiles, propres et bien pensées.
 
 ---
 
 ## 🚀 À propos de moi
 
-- 🔭 Je travaille actuellement sur : **<projet(s) ou thème actuel>**
+- 🔭 Je travaille actuellement sur : **<apprentissage>**
 - 🌱 J’apprends en ce moment : **<technos / compétences>**
 - 🧠 Centres d’intérêt : **<ex : performance, UX, IA, open-source…>**
 - ⚡ Fun fact : **<un truc cool ou léger sur toi>**
